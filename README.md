@@ -41,7 +41,7 @@ Comunicarse por protocolo tcp
 
 - Leer y escribir fichero xml
 
-- Leer y escribir fichero python
+- Leer y escribir fichero json
 
 - Leer y escribir hojas de calculo excel
 
