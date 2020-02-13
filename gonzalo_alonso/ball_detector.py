@@ -15,8 +15,8 @@ args = vars(ap.parse_args())
 
 # Define lower and upper color boundaries of the ball
 
-ballLowerColor = (29, 86, 6)
-ballUpperColor = (64, 255, 255)
+ballLowerColor = (168, 46, 22)
+ballUpperColor = (180, 255, 255)
 pts = deque(maxlen=args['buffer'])
 
 # Open webcam if video file is not supplied
