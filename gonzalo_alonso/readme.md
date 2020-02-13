@@ -16,4 +16,4 @@ El rango de color a detectar está configurado en el script como __ballLowerColo
 
 ## Detección de caras basado en el tutorial de [Adarsh Menon](https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81)
 
-En este 
+En este script se pasará un fichero de video con el parámetro __-v__ o se usará la webcam por defecto
