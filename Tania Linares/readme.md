@@ -14,7 +14,7 @@ Exite una gran variedad de módulos para hacer gráficos de todo tipo con Python
 
  ## *__Gráficos de líneas__*
 
-![ola](.\graficalinealcod.png)
+![ola](graficalinealcod.png)
 
 Para dar claridad a los gráficos pueden establecerse distintos estilos de líneas, marcadores y colores:
 
