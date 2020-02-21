@@ -14,7 +14,7 @@ Exite una gran variedad de módulos para hacer gráficos de todo tipo con Python
 
  ## *__Gráficos de líneas__*
 
-![ola](/F:\trabajo\graficalinealcod.png)
+![ola](.\graficalinealcod.png)
 
 Para dar claridad a los gráficos pueden establecerse distintos estilos de líneas, marcadores y colores:
 
@@ -47,21 +47,21 @@ __Colores (color=):__
 * k, black
 * w, white
 
-![ola](/F:\trabajo\graficalineal.png)
+![ola](.\graficalineal.png)
 
 
 
  ## *__Gráficos de barras__*
 
- ![ola](/F:\trabajo\graficabarrascod.png)
+ ![ola](.\graficabarrascod.png)
 
-![ola](/F:\trabajo\graficabarras.png)
+![ola](.\graficabarras.png)
 
  ## *__Gráficos de tipo tarta__*
 
- ![ola](/F:\trabajo\graficatartacod.png)
+ ![ola](.\graficatartacod.png)
 
-![ola](/F:\trabajo\graficatarta.png)
+![ola](.\graficatarta.png)
 
 Si sustituimos plot(y) por pie(y)  generamos un gráfico de tipo tarta. 
 
@@ -69,7 +69,7 @@ Si sustituimos plot(y) por pie(y)  generamos un gráfico de tipo tarta.
  ## *__Gráficos de 3D__*
 Con el siguiente código generamos un gráfico en 3D con los datos facilitados en X e Y, el eje X se facilita en el primer parámetro de numpy.arange:
 
- ![ola](/F:\trabajo\grafica3Dcod.png)
+ ![ola](.\grafica3Dcod.png)
 
-![ola](/F:\trabajo\grafica3D.png)
+![ola](.\grafica3D.png)
 
