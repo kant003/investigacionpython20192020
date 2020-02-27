@@ -1,0 +1,83 @@
+{
+     "encantamientos": [
+          {
+               "nombre": "Protecci\u00f3n",
+               "resumen": "Reduce considerablemente el da\u00f1o de todo tipo de ataque",
+               "maximo_nivel": 4,
+               "items": [
+                    "casco",
+                    "peto",
+                    "grebas",
+                    "botas"
+               ]
+          },
+          {
+               "nombre": "Protecci\u00f3n contra el fuego",
+               "resumen": "Reduce el da\u00f1o causado por el fuego",
+               "maximo_nivel": 4,
+               "items": [
+                    "casco",
+                    "peto",
+                    "grebas",
+                    "botas"
+               ]
+          },
+          {
+               "nombre": "Ca\u00edda de pluma",
+               "resumen": "Reduce el da\u00f1o causado por ca\u00eddas",
+               "maximo_nivel": 4,
+               "items": "botas"
+          },
+          {
+               "nombre": "Protecci\u00f3n contra explosiones",
+               "resumen": "Reduce el da\u00f1o causado por explosiones",
+               "maximo_nivel": 4,
+               "items": [
+                    "casco",
+                    "peto",
+                    "grebas",
+                    "botas"
+               ]
+          },
+          {
+               "nombre": "Protecci\u00f3n contra proyectiles",
+               "resumen": "Reduce el da\u00f1o contra los proyectiles",
+               "maximo_nivel": 4,
+               "items": [
+                    "casco",
+                    "peto",
+                    "grebas",
+                    "botas"
+               ]
+          },
+          {
+               "nombre": "Respiraci\u00f3n",
+               "resumen": "Aumenta la capacidad pulmonar bajo el agua",
+               "maximo_nivel": 3,
+               "items": "casco"
+          },
+          {
+               "nombre": "Afinidad acu\u00e1tica",
+               "resumen": "Aumenta la visi\u00f3n dentro del agua y mejora el rendimiento de las herramientas usadas",
+               "maximo_nivel": 1,
+               "items": "casco"
+          },
+          {
+               "nombre": "Espinas",
+               "resumen": "Los enemigos que te atacan reciben un 50 porciento del da\u00f1o que te causaron",
+               "maximo_nivel": 3,
+               "items": [
+                    "casco",
+                    "peto",
+                    "grebas",
+                    "botas"
+               ]
+          },
+          {
+               "nombre": "Agilidad acu\u00e1tica",
+               "resumen": "Permite nadar m\u00e1s r\u00e1pido en el agua.",
+               "maximo_nivel": 3,
+               "items": "botas"
+          }
+     ]
+}
